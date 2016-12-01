@@ -1,0 +1,30 @@
+a span {
+  font-style: italic;
+  font-family: 'Palatino Linotype',Palatino,Serif;
+}
+
+#name-and-slogan #site-slogan {
+  font-family: 'Palatino Linotype',Palatino,Serif;
+}
+
+a img {
+  border-top-style: groove;
+  border-right-style: groove;
+  border-bottom-style: groove;
+  border-left-style: groove;
+}
+
+.section #logo {
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+}
+
+#page #navigation {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: normal;
+  color: #d9dbd7;
+}
+
