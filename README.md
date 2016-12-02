@@ -29,6 +29,9 @@ Flourish and Blots fake bookstore built with Drupal 7 as part of self study foll
 
   d. After importing the database, if you have any trouble logging in with your Site Maintenance account, clear your browser's cookies by clearing the browser history.
 
+#To Do
+ *Use taxonomy on views to fliter by term -change settings in views
+ *Link book reivews to books themselves 
 
 #Project Instructions
 *Create 2 basic pages - an "About" page, and a "Locations" page.
@@ -57,7 +60,3 @@ Then change the site's default theme, name and slogan and configure the website 
 
 *Create a special coupon to display as a block on the front page which is visible to authenticated users and not anonymous users. It should say something like "This week: use this coupon code to get 25% off on all Science Fiction!"
 *No need to worry about shopping cart functionality.
-
-
-#To Do
- Use taxonomy on views to fliter by term -change settings in views
