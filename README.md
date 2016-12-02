@@ -56,5 +56,8 @@ Then change the site's default theme, name and slogan and configure the website 
   *Create an account for a user who is a Reviewer to test it out.
 
 *Create a special coupon to display as a block on the front page which is visible to authenticated users and not anonymous users. It should say something like "This week: use this coupon code to get 25% off on all Science Fiction!"
-
 *No need to worry about shopping cart functionality.
+
+
+#To Do
+ Use taxonomy on views to fliter by term -change settings in views
