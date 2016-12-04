@@ -29,9 +29,22 @@ Flourish and Blots fake bookstore built with Drupal 7 as part of self study foll
 
   d. After importing the database, if you have any trouble logging in with your Site Maintenance account, clear your browser's cookies by clearing the browser history.
 
+
+
+# User Stories
+
+1. As any user I can view books, separated by taxonomy
+
+2.  As an authenticated user I can leave comments on books
+
+3. As an authenticated user I can see a coupon code to save on biographies 
+
+4. As a reviewer I can write and leave book reviews
+
 #To Do
- *Use taxonomy on views to fliter by term -change settings in views
- *Link book reivews to books themselves 
+ *Link book reivews to books themselves
+
+
 
 #Project Instructions
 *Create 2 basic pages - an "About" page, and a "Locations" page.
